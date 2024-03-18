@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name TZXDuino)(type KiCad)(uri ${KIPRJMOD}/TZXDuino.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "TZXDuino")(type "KiCad")(uri "${KIPRJMOD}/TZXDuino.pretty")(options "")(descr ""))
+  (lib (name "TZXduino_beta")(type "KiCad")(uri "${KIPRJMOD}/libs/TZXduino_beta.pretty")(options "")(descr ""))
 )

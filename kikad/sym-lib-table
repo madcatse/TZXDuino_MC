@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "TZXDuino")(type "Legacy")(uri "${KIPRJMOD}/TZXDuino.lib")(options "")(descr ""))
   (lib (name "TZXDuino-rescue")(type "KiCad")(uri "${KIPRJMOD}/TZXDuino-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "tzxduino_pre")(type "KiCad")(uri "${KIPRJMOD}/libs/tzxduino_pre.kicad_sym")(options "")(descr ""))
 )
